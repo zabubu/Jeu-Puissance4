@@ -36,8 +36,8 @@
 
 **ci-dessous :** 
 
-![](Aspose.Words.2142bfd1-b45a-4890-803d-04f622fad84e.001.jpeg)
+![](menu.jpeg)
 
-![](Aspose.Words.2142bfd1-b45a-4890-803d-04f622fad84e.002.png)
+![](regles.png)
 
-![](Aspose.Words.2142bfd1-b45a-4890-803d-04f622fad84e.003.jpeg)
+![](jeu.jpeg)
